@@ -1,6 +1,8 @@
 <h1 align="center">JAVA OPPs</h1>
 
-<img src="images/java-logo.png">
+<!-- add a image from the images folder -->
+
+![Java Logo](images/java-logo.png)
 
 ## Table of Contents
 
@@ -32,6 +34,7 @@ A class is a blueprint for creating objects. It defines the attributes and behav
 
 A class in not a real world entity, it is a blueprint or prototyope that defines the attributes and behaviors of objects.
 A class in Java contains the following:
+
 - **Attributes**: Variables that store data.
 - **Constructors**: Methods that initialize objects.
 - **Methods**: Functions that perform actions.
@@ -40,10 +43,10 @@ A class in Java contains the following:
 
 An object is an instance of a class. It is a real world entity that has attributes and behaviors.
 An object is consist of the following:
+
 - **State**: Attributes that store data.
 - **Behavior**: Methods that perform actions.
 - **Identity**: Unique identifier that distinguishes objects.
-
 
 ### Example
 
@@ -104,4 +107,3 @@ public class Main {
 ```
 
 ---
-
