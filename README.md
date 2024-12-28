@@ -2,7 +2,7 @@
 
 <!-- add a image from the images folder -->
 
-![Java Logo](images/java-logo.png)
+![Java Logo](Images/java-logo.png)
 
 ## Table of Contents
 
